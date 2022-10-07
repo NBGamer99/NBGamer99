@@ -1,7 +1,7 @@
 
 ### Hi There 👋
 
-I’m a Student at 42intra network who is interested in programming. Currently, I am working mainly on C projects. Also, I love to work on graphic designs and editing videos.
+I’m a Student at 1337 which is a part of 42network. I'm interested in programming, graphic design, and video editing. Currently, I am working on C project called "libft".
 
 Want to know more about me?
 
