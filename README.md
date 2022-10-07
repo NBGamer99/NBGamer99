@@ -5,7 +5,7 @@ I’m a Student at 42intra network who is interested in programming. Currently, 
 
 Want to know more about me?
 
-![ynabouzi's 42 stats](https://badge.mediaplus.ma/greenbinary/ynabouzi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![ynabouzi's 42 stats](https://badge.mediaplus.ma/greenbinary/ynabouzi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <!--
 **NBGamer99/NBGamer99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
