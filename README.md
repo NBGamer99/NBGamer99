@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![ynabouzi's 42 stats](https://badge.mediaplus.ma/greenbinary/ynabouzi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 <!--
 **NBGamer99/NBGamer99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
