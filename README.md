@@ -1,7 +1,7 @@
 
 ### Hi There 👋
 
-I’m a Student at 1337 which is a part of 42network. I'm interested in programming, graphic design, and video editing. Currently, I am working on C project called "libft".
+I’m a Student at 1337 which is part of the 42network. I'm interested in programming, graphic designs, and video editing.
 
 Want to know more about me?
 
