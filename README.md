@@ -1,9 +1,9 @@
 
 ### Hi There 👋
 
-I’m a Student at 1337 which is part of the 42network. I'm interested in programming, graphic designs, and video editing.
+<!--I’m a Student at 1337 which is part of the 42network. I'm interested in programming, graphic designs, and video editing.
 
-Want to know more about me?
+Want to know more about me?-->
 
 
 <!--
