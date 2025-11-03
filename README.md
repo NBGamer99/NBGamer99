@@ -15,29 +15,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NBGamer99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D" alt="GitHub Stats" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBGamer99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D" alt="Top Languages" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NBGamer99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBGamer99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
-### 💼 Portfolio
+### 💼 Portfolio & Learning Path
 
-<div align="center">
+<p align="center">
 
-[![Portfolio](placeholder.gif)](https://ynabouzi.me/)
+  <a href="https://ynabouzi.me/" style="display:inline-block;">
+    <img src="./placeholder.gif" alt="Portfolio" height="150" style="vertical-align:middle;"/>
+  </a>
+  <a href="https://roadmap.sh" style="display:inline-block; vertical-align:middle; margin-left:16px;">
+    <img src="https://api.roadmap.sh/v1-badge/wide/658a249d54b5771051404452?variant=dark" alt="roadmap.sh" height="150" style="vertical-align:middle;"/>
+  </a>
 
-</div>
+</p>
 
----
-
-### 🗺️ Learning Path
-
-<div align="center">
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/658a249d54b5771051404452?variant=dark)](https://roadmap.sh)
-
-</div>
 
 
 </div>
