@@ -6,9 +6,13 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/NBGamer99/NBGamer99/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NBGamer99/NBGamer99/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NBGamer99/NBGamer99/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NBGamer99/NBGamer99/output/github-snake.svg" />
+</picture>
 
-![Snake dark](https://raw.githubusercontent.com/NBGamer99/NBGamer99/output/github-snake-dark.svg)
+![Ocean Snake](https://raw.githubusercontent.com/NBGamer99/NBGamer99/output/ocean.gif)
 
 ---
 
