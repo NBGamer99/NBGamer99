@@ -14,15 +14,17 @@
 
 <!-- ![Ocean Snake](https://raw.githubusercontent.com/NBGamer99/NBGamer99/output/ocean.gif) -->
 
----
 
+<!--
+---
 ### 📊 GitHub Stats
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NBGamer99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBGamer99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D" alt="Top Languages" height="150"/>
 </p>
 
+-->
 ---
 
 ### 💼 Portfolio & Learning Path
